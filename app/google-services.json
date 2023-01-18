@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959303812771",
+    "project_id": "quizchannel-a4ae9",
+    "storage_bucket": "quizchannel-a4ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959303812771:android:39c4c637617bf9b68be116",
+        "android_client_info": {
+          "package_name": "com.example.quizchannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959303812771-jd0m0e8vf4909m7nv80a29brpkkib1c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBat1dlJ0-PH5g34302MRnog8TP4RNRBE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959303812771-jd0m0e8vf4909m7nv80a29brpkkib1c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
